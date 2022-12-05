@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently working on developing my Node.js knowledge<br>🌱 I’m currently learning Express.js<br>💬 Ask me about Web Development
-
+🔭  I’m currently working on developing my Node.js knowledge<br>🌱 I’m currently learning React.js<br>💬 Ask me about Express.js
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fatihbatu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihbatu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/FatihBatu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15763597) 
