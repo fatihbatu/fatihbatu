@@ -196,7 +196,6 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<div style="flex">
 <p>
   <a href="https://www.buymeacoffee.com/fatihbatu">
     <img
@@ -211,7 +210,7 @@
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbatu&show_icons=true&locale=en&layout=compact"
     alt="fatihbatu"
   />
@@ -232,4 +231,3 @@
     alt="fatihbatu"
   />
 </p>
-</div>
