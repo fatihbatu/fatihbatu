@@ -152,7 +152,7 @@
 </p>
 
 <h3 align="left">Other Tools:</h3>
-<p align="left" style="background-color: #FFFEFE; border-radius: 20px; padding: 15px;">
+<p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.svgrepo.com/show/353478/bash-icon.svg"
@@ -194,11 +194,10 @@
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3>Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/fatihbatu">
     <img
-      align="left"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
       height="50"
       width="210"
@@ -209,7 +208,6 @@
 
 <p>
   <img
-    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbatu&show_icons=true&locale=en&layout=compact"
     alt="fatihbatu"
   />
@@ -217,7 +215,6 @@
 
 <p>
 <img
-    align="center"
     src="https://github-readme-stats.vercel.app/api?username=fatihbatu&show_icons=true&locale=en"
     alt="fatihbatu"
   />
@@ -225,7 +222,6 @@
 
 <p>
   <img
-    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbatu&"
     alt="fatihbatu"
   />
