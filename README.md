@@ -196,6 +196,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
+<div style="flex">
 <p>
   <a href="https://www.buymeacoffee.com/fatihbatu">
     <img
@@ -231,3 +232,4 @@
     alt="fatihbatu"
   />
 </p>
+</div>
