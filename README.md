@@ -23,7 +23,6 @@
       width="40"
   /></a>
 </p>
-<br><br>
 <h3 align="left">Front-end Tools:</h3>
 <p align="left" style="background-color: #FFFEFE; border-radius: 20px; padding: 15px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -207,6 +206,7 @@
   /></a>
 </p>
 <br /><br />
+
 <p>
   <img
     align="center"
