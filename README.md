@@ -204,8 +204,6 @@
       alt="fatihbatu"
   /></a>
 </p>
-<br /><br />
-
 <p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbatu&show_icons=true&locale=en&layout=compact"
