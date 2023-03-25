@@ -151,7 +151,7 @@
   </a>
 </p>
 
-<h3 align="left">Back-end Tools:</h3>
+<h3 align="left">Other Tools:</h3>
 <p align="left" style="background-color: #FFFEFE; border-radius: 20px; padding: 15px;">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
