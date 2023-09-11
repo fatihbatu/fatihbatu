@@ -1,234 +1,64 @@
-<h1 align="center">Hi 👋, I'm Fatih BATU</h1>
-<h3 align="center">Full-Stack Developer</h3>
+# Hello there! 👋 I'm Fatih
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=fatihbatu&label=Profile%20views&color=0e75b6&style=flat"
-    alt="fatihbatu"
-  />
-</p>
+I'm a **Full-Stack Developer** with a knack for transforming businesses through innovative software solutions. Every line of code I write is driven by a passion for technology and a commitment to craft.
 
-- 👨‍💻 All of my projects are available at
-  [https://fatihbatu.com](https://fatihbatu.com) - 📫 How to reach me
-  **contact@fatihbatu.com**
+## 🔍 What I specialize in:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/fatihbatu" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="fatihbatu"
-      height="30"
-      width="40"
-  /></a>
-</p>
-<h3 align="left">Front-end Tools:</h3>
-<p align="left" style="background-color: #FFFEFE; border-radius: 20px; padding: 15px;">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/353498/bootstrap.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/452185/css-3.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+- **Front-end Development**: ReactJS, NextJS
 
-<h3 align="left">Back-end Tools:</h3>
-<p align="left" style="background-color: #FFFEFE; border-radius: 20px; padding: 15px;">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/353724/express.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+- **Mobile App Development**: React Native
 
-<h3 align="left">Other Tools:</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/353478/bash-icon.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.svgrepo.com/show/448221/docker.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+- **Backend Development**:
+  Databases: MySQL, PostgreSQL, MongoDB. Experienced in designing database schemas and optimizing complex queries. Familiar with ORMs and ODMs such as Prisma.
+  
+  API Development: Proficient in developing RESTful APIs and GraphQL services. Familiar with API documentation tools like Postman and Insomnia.
+  
+  Server Frameworks: Extensive experience with Express.js, including handling sessions, authentication, authorization, middlewares, and custom error-handling.
+  
+  Performance: Skilled in optimizing backend performance and scaling features on demand. Familiar with built-in caching mechanisms of Next.js and Apollo.
+  
+  Deployment & Infrastructure: Experienced with reverse proxies like Nginx and Apache. Familiar with basic CI/CD integrations for backend deployments.
+  
+  Security: Proficient in implementing backend security practices, including securing endpoints, input validation, and mitigating various attacks. Knowledgeable in setting up HTTPS, SSL/TLS, and using JWT for       authentication.
 
-<h3>Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/fatihbatu">
-    <img
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-      height="50"
-      width="210"
-      alt="fatihbatu"
-  /></a>
-</p>
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbatu&show_icons=true&locale=en&layout=compact"
-    alt="fatihbatu"
-  />
-</p>
+- **Web Design**: Crafting intuitive and responsive designs
 
-<p>
-<img
-    src="https://github-readme-stats.vercel.app/api?username=fatihbatu&show_icons=true&locale=en"
-    alt="fatihbatu"
-  />
-</p>
+- **Business Consulting**: Helping businesses optimize their workflow through software
 
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbatu&"
-    alt="fatihbatu"
-  />
-</p>
+- **Network Administration**:
+  Proficient in setting up, managing, and optimizing LAN/WAN networks
+  Skilled in network protocols, VPN configurations (pfsense, OpenVPN, MikroTik)
+  Extensive experience with firewalls and running a dedicated server with VMware virtualization
+  Familiar with various network monitoring and troubleshooting tools
+
+- **Sysadmin**:
+  Managed and deployed multiple operating systems
+  Knowledgeable in user rights management, task automation, and backups
+  Experienced in handling system failures and disaster recovery
+
+- **Cloud Engineering**:
+  Hands-on experience with AWS services, especially AWS Amplify and Route53
+  Basic knowledge of Infrastructure as Code (IaC) concepts
+
+
+## 🌱 Projects I'm proud of:
+
+- **[Sharify](https://github.com/fatihbatu/sharem-social-media-clone)**: An image-sharing social media web app.
+- **[Financial Dashboard](https://github.com/fatihbatu/financeDashboard)**: A tool that offers financial insights and analytics.
+
+## 💡 Soft Skills:
+
+- **Project Management**: From ideas to actionable plans, I ensure projects run smoothly.
+- **Team Collaboration**: Believe in the power of teamwork and open communication.
+
+## 🚀 Future Goals:
+
+With my continuous learning mindset, my goal is to always improve, striving to develop solutions that make a difference in the world of tech and beyond.
+
+## 📫 How to reach me:
+
+- LinkedIn: https://linkedin.com/in/fatihbatu
+- Email: contact@fatihbatu.com
+- Portfolio: https://www.fatihbatu.com
+
+Would love to hear from you, whether that's ideas, feedback, or just a chat. Let's connect! 🌟
