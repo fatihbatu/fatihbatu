@@ -31,12 +31,12 @@ I'm a **Full-Stack Developer** with a knack for transforming businesses through 
   Extensive experience with firewalls and running a dedicated server with VMware virtualization
   Familiar with various network monitoring and troubleshooting tools
 
-- **Sysadmin**:
+- **System Administration**:
   Managed and deployed multiple operating systems
   Knowledgeable in user rights management, task automation, and backups
   Experienced in handling system failures and disaster recovery
 
-- **Cloud Engineering**:
+- **Cloud**:
   Hands-on experience with AWS services, especially AWS Amplify and Route53
   Basic knowledge of Infrastructure as Code (IaC) concepts
 
