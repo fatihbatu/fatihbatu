@@ -25,12 +25,6 @@ I'm a **Full-Stack Developer** with a knack for transforming businesses through 
 
 - **Business Consulting**: Helping businesses optimize their workflow through software
 
-- **Network Administration**:
-  Proficient in setting up, managing, and optimizing LAN/WAN networks
-  Skilled in network protocols, VPN configurations (pfsense, OpenVPN, MikroTik)
-  Extensive experience with firewalls and running a dedicated server with VMware virtualization
-  Familiar with various network monitoring and troubleshooting tools
-
 - **System Administration**:
   Managed and deployed multiple operating systems
   Knowledgeable in user rights management, task automation, and backups
